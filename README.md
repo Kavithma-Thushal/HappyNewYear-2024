@@ -15,7 +15,7 @@ year filled with breakthroughs, collaborative endeavors, and the continual pursu
 Embrace the challenges, relish the victories, and let the world witness the transformative power of your programming
 prowess. Happy coding in 2024! 🥳✨
 
-## Tech Stack
+### Tech Stack
 
 ✅HTML<br/>
 ✅CSS<br/>

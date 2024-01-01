@@ -16,8 +16,6 @@ Embrace the challenges, relish the victories, and let the world witness the tran
 prowess. Happy coding in 2024! 🥳✨
 
 <img src="https://github.com/Thushal2001/HappyNewYear-2024/blob/master/HappyNewYear-2024!.png">
-<img src="https://github.com/Thushal2001/HappyNewYear-2024/blob/master/new/HappyNewYear-2024!.gif" width="800px">
-<video src="https://github.com/Thushal2001/HappyNewYear-2024/blob/master/new/HappyNewYear-2024!.mp4"></video>
 
 ### Tech Stack
 

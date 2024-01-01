@@ -17,6 +17,9 @@ prowess. Happy coding in 2024! 🥳✨
 
 <img src="https://github.com/Thushal2001/HappyNewYear-2024/blob/master/HappyNewYear-2024!.png">
 <img src="https://github.com/Thushal2001/HappyNewYear-2024/blob/master/new/HappyNewYear-2024!.gif" width="800px">
+<video id="background_video" autoplay="" loop="" muted="">
+    <source src="new/HappyNewYear-2024!.mp4" type="video/mp4">
+</video>
 
 ### Tech Stack
 
